@@ -1,7 +1,7 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="file:///C:/Users/Hp/Downloads/app-development-banner_33099-1720.webp" width="981" height="294">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://shailendraweb.com/wp-content/uploads/2019/01/android-app-banner-1.jpg">
 <h1 align="center">Hi 👋, I'm Prasad khotkar</h1>
 <h3 align="center">I am a frontend developer and passionate towards android development</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fapp-development-banner_5467426.htm&psig=AOvVaw2D1-Ev5zBGoOaVclvdIGZN&ust=1672650065472000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj7hpqBpvwCFQAAAAAdAAAAABAE">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115ff225cc39b6bef71b70bb8b824b6e5f3d016d7f&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadkhotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkhotkar" /> </p>
 
