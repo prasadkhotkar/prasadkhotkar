@@ -1,13 +1,16 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://shailendraweb.com/wp-content/uploads/2019/01/android-app-banner-1.jpg">
-<h1 align="center">Hi 👋, I'm Prasad khotkar</h1>
-<h3 align="center">I am a frontend developer and passionate towards android development</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115ff225cc39b6bef71b70bb8b824b6e5f3d016d7f&rid=giphy.gif&ct=g" height="400px" width="600px" align="right">
+<hr>
+<hr>
+<h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
+<hr>
+<hr>
+<h3 align="center"><marquee direction="left">I am a frontend developer and passionate towards android development</marquee></h3>
+<hr>
+<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadkhotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkhotkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadkhotkar" alt="prasadkhotkar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@prasadkhotkar1" target="blank"><img src="https://img.shields.io/twitter/follow/@prasadkhotkar1?logo=twitter&style=for-the-badge" alt="@prasadkhotkar1" /></a> </p>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115ff225cc39b6bef71b70bb8b824b6e5f3d016d7f&rid=giphy.gif&ct=g" height="350px" width="500px" align="right">
+<p align="left" > <a href="https://twitter.com/@prasadkhotkar1" target="blank"><img src="https://img.shields.io/twitter/follow/@prasadkhotkar1?logo=twitter&style=for-the-badge" alt="@prasadkhotkar1" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development and DSA**
 
@@ -16,6 +19,12 @@
 - 📫 How to reach me **prasadkhotkar916@gmail.com**
 
 - 📄 Know about my experiences [file:///D:/resumeprasad.pdf](file:///D:/resumeprasad.pdf)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadkhotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkhotkar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadkhotkar" alt="prasadkhotkar" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
