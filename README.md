@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Android Development and DSA**
 
-- 💬 Ask me about **C, C++, Java, Python, HTML,CSS**
+- 💬 Ask me about **C, C++, Java, Python, HTML,CSS, DSA**
 
 - 📫 How to reach me **prasadkhotkar916@gmail.com**
 
