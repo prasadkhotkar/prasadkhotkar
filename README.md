@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%); height=300px;" src="https://wallpaperaccess.com/full/1657878.jpg">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%); height:500px;" src="https://wallpaperaccess.com/full/1657878.jpg">
 <hr>
 <hr>
 <h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
