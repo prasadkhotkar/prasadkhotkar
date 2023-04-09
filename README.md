@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
 <hr>
 <hr>
-<h2 align="center"></b>I am a frontend developer and passionate towards android development</b></h2>
+<h1 align="center"></b> frontend developer </b></h1>
 <hr>
 <hr>
 
