@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://shailendraweb.com/wp-content/uploads/2019/01/android-app-banner-1.jpg">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="[https://shailendraweb.com/wp-content/uploads/2019/01/android-app-banner-1.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fweb-design&psig=AOvVaw3L7heLNazdGDXXm-uqJ-5y&ust=1681135875677000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjG1qf9nP4CFQAAAAAdAAAAABAE)">
 <hr>
 <hr>
 <h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
