@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%); height:500px; width:100%;" src="https://wallpaperaccess.com/full/1657878.jpg">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%); height:500px; width:100%;" src="[https://wallpaperaccess.com/full/1657878.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dlofi%2Bdark&psig=AOvVaw1rkezk3nUDRnzMkIlnSXLo&ust=1685713232557000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC5zKaZov8CFQAAAAAdAAAAABAN)">
 <hr>
 <hr>
 <h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
