@@ -1,13 +1,6 @@
 ![Salinan dari Beige and Blue Modern Company Banner](https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/72762b92-a337-49b7-b6e4-86ed1f8ea53b)
 
-<hr>
-<hr>
-<h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
-<hr>
-<hr>
-<h1 align="center"></b> frontend developer </b></h1>
-<hr>
-<hr>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadkhotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkhotkar" /> </p>
 
