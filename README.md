@@ -1,5 +1,5 @@
-![Salinan dari Beige and Blue Modern Company Banner](https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/72762b92-a337-49b7-b6e4-86ed1f8ea53b)(https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/ab34adb6-28a6-4caf-ad6b-d8c77418a4c0)
-">
+![Salinan dari Beige and Blue Modern Company Banner](https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/72762b92-a337-49b7-b6e4-86ed1f8ea53b)
+
 <hr>
 <hr>
 <h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
