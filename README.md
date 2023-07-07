@@ -1,4 +1,5 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%); height:450px; width:900px;" src="https://e0.pxfuel.com/wallpapers/735/385/desktop-wallpaper-lofi-background-for-your-mobile-tablet-explore-dark-lofi-lofi-anime-aesthetic-ipad-lofi-hip-hop-dark-lofi-study.jpg">
+![Salinan dari Beige and Blue Modern Company Banner](https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/72762b92-a337-49b7-b6e4-86ed1f8ea53b)(https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/ab34adb6-28a6-4caf-ad6b-d8c77418a4c0)
+">
 <hr>
 <hr>
 <h1 align="center"><b>Hi 👋, I'm Prasad khotkar</b></h1>
