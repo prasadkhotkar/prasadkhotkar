@@ -1,8 +1,8 @@
-![Salinan dari Beige and Blue Modern Company Banner](https://github.com/prasadkhotkar/prasadkhotkar/assets/109893694/72762b92-a337-49b7-b6e4-86ed1f8ea53b)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadkhotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkhotkar" /> </p>
+
+<p align="left"> <img src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg?w=996" alt="prasadkhotkar" /> </p>
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115ff225cc39b6bef71b70bb8b824b6e5f3d016d7f&rid=giphy.gif&ct=g" height="350px" width="450px" align="right">
 <!--<p align="left" > <a href="https://twitter.com/@prasadkhotkar1" target="blank"><img src="https://img.shields.io/twitter/follow/@prasadkhotkar1?logo=twitter&style=for-the-badge" alt="@prasadkhotkar1" /></a> </p>-->
@@ -10,13 +10,13 @@
 
 
 
-- 🌱 I’m currently learning **Android Development and DSA**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 💬 Ask me about **C, C++, Java, Python, HTML,CSS, DSA**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,TAILWIND,JAVASCRIPT,REACT JS ,C++,JAVA,DSA**
 
 - 📫 How to reach me **prasadkhotkar916@gmail.com**
 
-- 📄 Know about my experiences file:///D:/resumeprasad.pdf
+  
 
 
 
