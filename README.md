@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg?w=996" alt="prasadkhotkar" style="height:500px; width:100vw;" /> </p>
+<p align="left"> <img src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg?w=996" alt="prasadkhotkar" style="height:450px; width:100vw;" /> </p>
 <h1 align="center">Hi 👋, I'm Prasad Khotkar</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <hr>
