@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **Frontend Development and DSA**
+- 🌱 I’m currently learning **MERN STACK and DSA**
 
 - 👨‍💻 All of my projects are available at [https://prasadkhotkar.github.io/Portfolio-Website/](https://prasadkhotkar.github.io/Portfolio-Website/)
 
