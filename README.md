@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Prasad Khotkar</a></b>
+                <b><a target="_blank" href="https://prasadkhotkar.github.io/Portfolio-Website/">Prasad Khotkar</a></b>
         </samp>
 </h3>
 
