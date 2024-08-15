@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
- <a href="https://prasadkhotkar.github.io/Portfolio-Website/" target="blank">
+ <a href="https://react-portfolio-lilac-eight.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/http://www.linkedin.com/in/prasad-khotkar" target="_blank">
