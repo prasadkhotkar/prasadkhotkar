@@ -16,7 +16,7 @@
 
 <p align="center"> 
   <samp>
-    Passionate MERN Stack Developer
+    Passionate Full Stack Developer
     <br>
     <br>
   </samp>
@@ -54,7 +54,7 @@
 
 - 🌱 I’m currently learning **MERN STACK and DSA**
 
-- 👨‍💻 All of my projects are available at [https://prasadkhotkar.github.io/Portfolio-Website/](https://prasadkhotkar.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://prasadkhotkar.github.io/Portfolio-Website/](https://react-portfolio-lilac-eight.vercel.app/)
 
 - 💬 Ask me about **REACT**
 
